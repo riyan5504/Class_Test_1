@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cont{
+    margin: 10px;
+    background-color: rgb(231, 237, 55);
+    height: 600px;
+    width: 400px;
+    margin: auto;
+    border: solid;
+    box-sizing: border-box;
+    ::placeholder{
+        color: rgb(89, 219, 80);
+        font-style: italic;
+    }
+}
+.lb{
+    margin-left: 10px;
+}
+.title{
+    text-align: center;
+    color: blue;
+}
+.inp_elm{
+   
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+}
